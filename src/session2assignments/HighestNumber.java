@@ -4,7 +4,8 @@ package session2assignments; // Package declaration
  *
  */
 public class HighestNumber
-{/**
+{
+	/**
 	 * This is the main method which accepts command line arguments and returns no value
 	 *
 	 */
